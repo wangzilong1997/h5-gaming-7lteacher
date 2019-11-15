@@ -7,10 +7,10 @@ demo是cocoshtml
 #### 为了让老师看的方便特写文档
 
 #### 图片部分
-<img src="./image/begin.png" />
-<img src="./image/gaming.png"  />
-<img src="./image/gaming(2).png"  />
-<img src="./image/over.png" />
+<img src="./zuoye/begin.png" />
+<img src="./zuoye/gaming.png"  />
+<img src="./zuoye/gaming(2).png"  />
+<img src="./zuoye/over.png" />
 
 
 参照demo写的
