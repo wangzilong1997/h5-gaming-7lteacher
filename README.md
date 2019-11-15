@@ -1,7 +1,7 @@
 # h5-gaming-7lteacher
 
 demo是cocoshtml
-作业是作业部分
+zuoye是作业部分
 
 
 #### 为了让老师看的方便特写文档
