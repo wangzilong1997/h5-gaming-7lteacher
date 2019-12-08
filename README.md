@@ -1,7 +1,9 @@
 # h5-gaming-7lteacher
 
-demo是cocoshtml
+demo是cocos2djs整个项目
 zuoye是作业部分
+
+zuoye里面有最近两次的作业
 
 
 #### 为了让老师看的方便特写文档
